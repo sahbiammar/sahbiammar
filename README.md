@@ -4,8 +4,8 @@
 - 🌱 I’m Currently Learning : React Js 
 - 👯 I’m Looking To Collaborate On : React Js  
 - 💬 Ask me about ... Anything
-- 📫 Reach me On ig : [@sahbiammar](https://www.instagram.com/sahbiammar/)
-           Or On fb : [@sahbiammar](https://www.facebook.com/sahbi.ammar.50/)
+- 📫 Reach me On [@sahbiammar](https://www.instagram.com/sahbiammar/)
+            Or : [@sahbiammar](https://www.facebook.com/sahbi.ammar.50/)
 - - 👨‍💻 All of my projects are available at [Sahbiammar](https://github.com/sahbiammar)
 
 <p align="center"> 
