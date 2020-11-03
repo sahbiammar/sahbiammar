@@ -5,7 +5,7 @@
 - 💬 Ask me about ... Anything
 - 📫 Reach me On [@sahbiammar](https://www.instagram.com/sahbiammar/)
             Or : [@sahbiammar](https://www.facebook.com/sahbi.ammar.50/)
-- 💻 All of my projects are available at [Sahbiammar](https://github.com/sahbiammar)
+- 💻 All of my projects are available at [Sahbiammar](https://github.com/sahbiammar?tab=repositories)
 
 <p align="center"> 
   <img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react; width="40" height="40"/> 
